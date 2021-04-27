@@ -170,3 +170,10 @@ div.btext p{
 .bimage{
 	padding-top: 55px;
 }
+
+.pvideo{
+	position: absolute;
+	left: 30%;
+	bottom: -160%;
+
+}
